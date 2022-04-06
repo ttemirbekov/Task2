@@ -10,9 +10,9 @@ public class Main {
         int b = scanner.nextInt();
         int c = scanner.nextInt();
         int sum = a + b + c;
-        int times = a * b * c;
+        int mult = a * b * c;
         System.out.println("5 + 7 + 8 = " + sum);
-        System.out.println("5 * 7 * 8 = " + times);
+        System.out.println("5 * 7 * 8 = " + mult);
         System.out.println("(5 + 7 + 8) / 3 = " + sum / 3d);
 
    }
